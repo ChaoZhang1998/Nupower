@@ -1,0 +1,19 @@
+Nuclear Power Station,Province,Rated Power(MW),Number of Units,Annual Energy Capacity(Billion kWh),Timespan(years),Localization Rate(%),Investment Volume(Billion RMB),Commencement Date,Operation Date,Viz
+Qinshan 1#,Zhejiang,300,1,25,30,>70,12,1985/3/20,1994/4/1,0.5
+Dayawan,Guangdong,1000,2,100,40,<10,272,1987/8/7,1994/5/6,1.66666666666667
+Qinshan 2#,Zhejiang,600,4,*,40,>70,293,1996/6/2,2002/4/15,1
+Lingao 1#,Guangdong,1000,2,145,40,30,274,1997/5/15,2003/1/8,1.66666666666667
+Qinshan 3#,Zhejiang,700,2,110,40,55,175,1998/6/8,2003/7/24,1.16666666666667
+Tianwan 1#,Jiangsu,1000,2,140,40,70,218,1999/10/20,2007/8/16,1.66666666666667
+CEFR,Beijing,250,1,*,*,*,*,2000/5/1,*,0.416666666666667
+Lingao 2#,Guangdong,1000,2,145,40,70,260,2005/12/15,*,1.66666666666667
+Hongyanhe 1#,Liaoning,1000,4,300,30,60,486,8/18/2007,*,1.66666666666667
+NIngde 1#,Fujian,1089,4,300,40,80,490,2008/2/18,*,1.815
+Sanmen 1#,Zhejiang,1250,2,150,60,70,400,2008/2/26,2014/9/1,2.08333333333333
+Fuqing 1#,Fujian,1080,4,*,40,80,800,2008/11/21,2014/7/24,1.8
+Yangjiang 1#,Guangdong,1080,6,320,40,83,700,2008/12/16,*,1.8
+Fangjiashan,Zhejiang,1000,2,160,60,80,268,2008/12/26,2014/11/1,1.66666666666667
+Taishan 1#,Guangdong,1750,2,260,60,50,237,2009/12/21,*,2.91666666666667
+Haiyang ,Shandong,1250,2,*,60,60,400,2009/12/28,*,2.08333333333333
+Changjiang,Hainan,650,2,100,40,82,235,2010-04-25,*,1.08333333333333
+ Fangchenggang 1#,Guangxi,1080,2,150,40,80,250,2010/7/30,*,1.8

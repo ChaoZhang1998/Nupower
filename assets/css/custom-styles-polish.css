@@ -1,0 +1,35 @@
+.cover-heading-polish {
+    color: rgb(255, 255, 255); 
+    grid-column: 2 / 14;
+}
+
+
+.cover-title-polish {
+    font-weight: 800;
+}
+
+.cover-subtitle-polish {
+    color: rgb(255, 255, 255); 
+}
+
+.question__title-polish {
+    font-weight: 900;
+    color: var(--color-light);
+}
+
+footer {
+    color: var(--color-dark);
+}
+
+.pagination__link-polish {
+    color: var(--color-text);
+}
+
+.question__content {
+    font-weight: 300;
+    grid-column: 3 / 13;
+}
+
+strong {
+    color: var(--color-main);
+}
